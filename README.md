@@ -88,3 +88,30 @@ This ensures a **consistent user experience across different screen sizes**.
 ---
 
 ## 📂 Project Structure
+Adventure--Tourism-website
+│
+├── index.html
+├── style.css
+├── script.js
+├── images/
+└── assets/
+
+---
+
+## 🎯 Purpose of the Project
+
+This project was created to:
+
+- Practice **frontend web development**
+- Build a **complete responsive website**
+- Improve **CSS layouts and UI design**
+- Learn **Git and GitHub workflow**
+
+---
+
+## 👨‍💻 Author
+
+**Ayush Kumar**
+
+GitHub Profile  
+https://github.com/AyushKumar101-code
