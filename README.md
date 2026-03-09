@@ -88,13 +88,13 @@ This ensures a **consistent user experience across different screen sizes**.
 ---
 
 ## 📂 Project Structure
-Adventure--Tourism-website
+Adventure--Tourism-website<br>
 │
-├── index.html
-├── style.css
-├── script.js
-├── images/
-└── assets/
+├── index.html<br>
+├── style.css<br>
+├── script.js<br>
+├── images/<br>
+└── assets/<br>
 
 ---
 
