@@ -1,55 +1,90 @@
-# Adventour: Your Gateway to Unforgettable Adventures
+# 🌍 Adventure Tourism Website
 
-Welcome to **Adventour**, a travel website designed to help users embark on extraordinary journeys.
+## 📌 Project Overview
 
-This project is built using **HTML, CSS, and JavaScript**, creating a visually appealing and user-friendly travel experience.
+The **Adventure Tourism Website** is a personal web development project created by **Ayush Kumar** to showcase a modern travel and adventure-themed website.
 
-Adventour is an **open-source project**, and everyone is welcome to explore the codebase and contribute. Whether you're a beginner or an experienced developer, this project can help you improve your web development skills.
+This project demonstrates my ability to design and build a **responsive, visually appealing tourism website using HTML, CSS, and JavaScript**. The website presents various adventure destinations, tour packages, and events in an organized and user-friendly layout.
 
----
-
-## 🚀 Getting Started
-
-### Download and Run
-
-1. Download the `.zip` file
-2. Extract the contents
-3. Open `index.html` in your web browser
+The main goal of this project is to practice **frontend development, UI design, and website structuring** while building a complete functional travel website.
 
 ---
 
-## 🌐 Live Demo
+## 🚀 Live Website
 
-You can view the project live here:
-
+🌐 Live Demo  
 https://ayushkumar101-code.github.io/Adventure--Tourism-website/
 
-Or explore the repository:
-
+📂 Repository  
 https://github.com/AyushKumar101-code/Adventure--Tourism-website
 
 ---
 
-## 📸 Screenshot
+## ⚙️ How the Website Works
 
-![Tourism Website Desktop Demo](./Adventour.png)
+The website is designed as a **single-page tourism platform** where users can explore adventure destinations and travel experiences.
+
+### 1️⃣ Navigation System
+The navigation bar allows users to smoothly move between different sections of the website such as:
+
+- Home
+- About
+- Tours
+- Events
+- Contact
+
+Anchor links and JavaScript are used to create **smooth scrolling between sections**.
 
 ---
 
-## 🛠 Tools Required
+### 2️⃣ Home Section
+The homepage introduces the website with a **hero banner and background imagery** that highlights adventure travel.
 
-All you need is a **text editor** like:
-
-- VS Code
-- Sublime Text
-- Notepad++
-
-No complex setup or installations are required.
+It provides a strong visual entry point that attracts users and encourages them to explore the website.
 
 ---
 
-## ▶ Running the App
+### 3️⃣ Adventure Destinations
+This section showcases different adventure locations and travel experiences.
 
-1. Extract the files
-2. Open `index.html`
-3. Enjoy the travel website locally in your browser.
+Each destination card includes:
+
+- Destination image
+- Short description
+- Adventure activity information
+
+CSS styling is used to create **interactive cards and organized layouts**.
+
+---
+
+### 4️⃣ Tours / Events Section
+The tours section displays upcoming adventure tours and travel activities.
+
+This simulates how **real tourism websites present travel packages and events**.
+
+---
+
+### 5️⃣ Responsive Design
+The website layout is fully responsive using CSS.
+
+The design adapts for:
+
+- Desktop screens
+- Tablets
+- Mobile devices
+
+This ensures a **consistent user experience across different screen sizes**.
+
+---
+
+## 🛠 Technologies Used
+
+- **HTML5** – Website structure  
+- **CSS3** – Styling and layout  
+- **JavaScript** – Interactivity and navigation behavior  
+- **Git** – Version control  
+- **GitHub** – Project hosting  
+
+---
+
+## 📂 Project Structure
