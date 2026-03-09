@@ -10,7 +10,7 @@ Adventour is an open-source project; we welcome you to explore its codebase and 
 
 <div align="center">
   <br />
-  <a href="https://iamit010.github.io/adventour-tourism-website/"><strong>➥ Live Demo</strong></a>
+  <a href="https://AyushKumar101-code.github.io/adventour-tourism-website/"><strong>➥ Live Demo</strong></a>
 </div>
 
 ## Screeshot
